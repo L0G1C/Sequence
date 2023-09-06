@@ -1,2 +1,2 @@
-# Game Jam Game
+# Sequence
 Made in Godot 3.5.1
